@@ -1,10 +1,10 @@
-script.ioam.de
-www.asadcdn.com
-cdn.cookielaw.org
-cdn.blueconic.net
-www.googletagmanager.com
-pagead2.googlesyndication.com
-k.intellitxt.com
-widgets.outbrain.com
-healte.de
-static.criteo.net
+0.0.0.0 script.ioam.de
+0.0.0.0 www.asadcdn.com
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 cdn.blueconic.net
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 k.intellitxt.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 healte.de
+0.0.0.0 static.criteo.net
